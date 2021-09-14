@@ -28,6 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = ["mdsedov.com"]
 
 
+
 # Application definition
 
 INSTALLED_APPS = [
