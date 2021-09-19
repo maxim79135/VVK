@@ -1,2 +1,5 @@
-env
-vvk_2021/vvk_2021/__pycache__
+.idea
+venv
+__pycache__/
+*.pyc
+db.sqlite3
