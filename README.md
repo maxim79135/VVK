@@ -5,7 +5,7 @@
 python3.* -m venv venv
 . ./venv/bin/activate
 pip isntall -r requirements.txt
-pre-commit isntall
+pre-commit install
 ```
 
 ## Start Proejct
